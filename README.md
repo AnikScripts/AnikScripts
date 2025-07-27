@@ -40,4 +40,8 @@ If you enjoy the bots or find them helpful, feel free to leave a ⭐ on the repo
 
 ## 📬 Contact
 
-For serious inquiries, reach out via Discord: `reezzz.dev`
+For serious inquiries, reach out via Discord: `reezzz_`
+
+https://anikbothosting.de
+
+discord.gg/anikscripts
